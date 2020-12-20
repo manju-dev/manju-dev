@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+🌱 I’m currently learning Data Science /machine Learning.
+
+🔭 Checkout my [GitHub Pages site.](https://manju-dev.github.io)
+
 <!--
 **manju-dev/manju-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
