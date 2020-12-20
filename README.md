@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning Data Science /machine Learning.
+🌱 I’m currently learning Data Science/Machine Learning.
 
 🔭 Checkout my [GitHub Pages site.](https://manju-dev.github.io)
 
